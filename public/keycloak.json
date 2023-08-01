@@ -1,0 +1,10 @@
+{
+  "realm": "gocorp",
+  "auth-server-url": "https://goauth.gerardoortiz.com/auth/",
+  "ssl-required": "none",
+  "clientId": "sap",
+  "credentials": {
+    "secret": "aae9b6eb-6cf7-4700-b27e-d1e1fdb6c092"
+  },
+  "confidential-port": 0
+}
